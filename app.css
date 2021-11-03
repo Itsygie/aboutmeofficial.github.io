@@ -1,0 +1,82 @@
+body {
+  background-image: url(https://th.bing.com/th/id/OIP.PD500u9oiEgeeLPrhiP4wAHaEK?pid=ImgDet&rs=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+body {
+  margin: 10;
+  padding: 10;
+}
+.container {
+  text-align: center;
+}
+.btn {
+  border: solid;
+  background: transparent;
+  padding: 10px 20px;
+  font-size: 200px,
+  transition: 0.10s
+}
+.btn1,.btn2 {
+  color: black;
+}
+.btn1:hover,.btn2:hover {
+  color: #77ffdd;
+}
+.btn3:hover {
+  color: pink;
+}
+h1{
+  text-align:center
+}
+.header {
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+#info {
+  text-align: center;
+  color: black;
+  font-size: x-large;
+  background-image: url(https://image.shutterstock.com/image-vector/desert-landscape-oasis-background-vector-260nw-1719904327.jpg);
+  border: 1px solid #696969;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px black;
+}
+.var {
+  color:blue;
+}
+.header2 {
+  color: black;
+  font-style: italic;
+  font-size: larger;
+  text-align: center;
+}
+.header3 {
+  color: black;
+  font-style: italic;
+  font-size: x-large;
+  text-align: center;
+}
+#infoTwo {
+  text-align: center;
+  color:black;
+  font-size: x-large;
+  background-image: url(https://img.freepik.com/free-vector/arid-landscape-background-at-sunset_23-2147591449.jpg?size=338&ext=jpg);
+  border: 1px solid #696969;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px black;
+}
+#infoThree {
+  text-align: center;
+  color:white;
+  font-size: x-large;
+  background-image: url(https://cdn.dribbble.com/users/331579/screenshots/1916936/heaven_earth_drib_1x.jpg);
+  border: 1px solid #696969;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px black;
+}
